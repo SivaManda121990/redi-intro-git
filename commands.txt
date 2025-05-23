@@ -3,3 +3,5 @@ git status            # Check status of files in the repo
 git add <file>        # Add file to staging area
 git commit -m "msg"   # Commit changes with message
 git push origin main  # Push commits to remote repo
+
+git log   # Show commit history
