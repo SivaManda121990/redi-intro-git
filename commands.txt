@@ -1,0 +1,5 @@
+git clone <repo-url>   # Clone a remote repo to local machine
+git status            # Check status of files in the repo
+git add <file>        # Add file to staging area
+git commit -m "msg"   # Commit changes with message
+git push origin main  # Push commits to remote repo
